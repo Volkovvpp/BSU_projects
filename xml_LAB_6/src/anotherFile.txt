@@ -1,0 +1,10 @@
+4342 Volkov 6 matan 10 Geometry 10
+1233 Galkevich 2 Matanaliz 2 Geometry 2
+1233 Staver 6 nffn 2 Geometry 2
+0000 Trofimovich 6 nffn 2 Geometry 2
+1221 Bezmen 6 nffn 2 Geometry 2
+1238 Blagodarniy 2 gkgk 5 Geometry 7
+1238 Osotov 2 gkgk 5 Geometry 7
+4535 Obuhovich 2 gs 3 Geometry 1
+6875 Kolesnik 2 dfhfg 3 Geometry 2
+6905 Gaydick 1 dfhfg 1 Geometry 1

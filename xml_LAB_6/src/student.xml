@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Students>
+    <student numberOfBook = "1234" surname = "Volkov" numberOfSemester = "2">
+        <subj1>Matan</subj1>
+        <mark1>2</mark1>
+        <subj2>Geom</subj2>
+        <mark2>2</mark2>
+    </student>
+    <student numberOfBook = "1265" surname = "Bezmen" numberOfSemester = "2">
+        <subj1>Matan</subj1>
+        <mark1>2</mark1>
+        <subj2>Geom</subj2>
+        <mark2>2</mark2>
+    </student>
+    <student numberOfBook = "1834" surname = "Galkevich" numberOfSemester = "2">
+        <subj1>Matan</subj1>
+        <mark1>2</mark1>
+        <subj2>Geom</subj2>
+        <mark2>2</mark2>
+    </student>
+    <student numberOfBook = "9234" surname = "Lankut" numberOfSemester = "3">
+        <subj1>Matan</subj1>
+        <mark1>2</mark1>
+        <subj2>Geom</subj2>
+        <mark2>2</mark2>
+    </student>
+</Students>
